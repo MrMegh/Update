@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "title": "Update Title",
+  "text": "This is the update text.",
+  "downloadLink": "https://example.com/download",
+  "isVeryImportant": true,
+  "changeLong": "A long description of the changes."
+}
