@@ -1,8 +1,8 @@
 {
-  "version": 1,
-  "title": "Update Title",
-  "text": "This is the update text.",
+  "version": 2,
+  "title": "Please Update !",
+  "text": "This is a very crucial update",
   "downloadLink": "https://example.com/download",
   "isVeryImportant": true,
-  "changeLong": "A long description of the changes."
+  "changeLong": "A Serious Bug was detected and fixed"
 }
