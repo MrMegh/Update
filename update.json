@@ -3,6 +3,6 @@
   "title": "Please Update !",
   "text": "This is a very crucial update",
   "downloadLink": "https://example.com/download",
-  "isVeryImportant": true,
+  "isVeryImportant": false,
   "changeLong": "A Serious Bug was detected and fixed"
 }
